@@ -1,0 +1,15 @@
+.scena {
+  width: 1200px;
+  height: 800px;
+  background-color: bisque;
+  border: 2px solid blueviolet;
+  margin: 10px auto;
+}
+
+.runitem {
+  width: 200px;
+  height: 200px;
+  background-image: url("../images/runimg.png");
+  position: absolute;
+  transition: top 0.7s, left 0.7s;
+}/*# sourceMappingURL=main.css.map */
